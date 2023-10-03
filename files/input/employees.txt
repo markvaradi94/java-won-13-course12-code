@@ -1,0 +1,25 @@
+John|Doe|30|Software Engineer|70000|DEV
+Jane|Smith|28|Data Analyst|65000|DATA
+Michael|Johnson|35|Project Manager|81000|ADMIN
+Emily|Clark|26|UI/UX Designer|66000|UI
+Robert|Brown|40|CTO|120000|ADMIN
+Linda|White|32|HR Specialist|55000|ADMIN
+Paul|Miller|29|Database Administrator|79000|DATA
+Sarah|Davis|27|QA Tester|58000|TEST
+Brian|Martinez|37|Software Engineer|79000|DEV
+Grace|Rodriguez|33|Web Developer|71000|UI
+James|Lee|38|System Architect|95000|DEV
+Anna|Walker|34|Project Manager|85000|ADMIN
+Henry|Garcia|31|Software Engineer|77000|DEV
+Sophia|Hernandez|28|Graphic Designer|62000|UI
+Ethan|King|25|Junior Software Developer|54000|DEV
+Olivia|Wright|39|Digital Marketer|68000|ADMIN
+Lucas|Lopez|36|UI/UX Designer|89000|UI
+Mia|Hill|41|Chief Data Officer|115000|DATA
+Alexander|Scott|27|Software Engineer|81000|DEV
+Emma|Green|30|Scrum Master|66000|ADMIN
+David|Baker|35|Cyber-security Analyst|79000|ADMIN
+Ava|Turner|29|QA Tester|66000|TEST
+Noah|Phillips|28|Mobile App Developer|79000|DEV
+Liam|Campbell|40|Business Analyst|76000|ADMIN
+Charlotte|Parker|36|Digital Marketer|64000|ADMIN
